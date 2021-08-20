@@ -11,9 +11,9 @@ setuptools.setup(
     description="An S3 Bucket up download helper",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/tuergeist/aws-s3bucket",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/tuergeist/aws-s3bucket/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
